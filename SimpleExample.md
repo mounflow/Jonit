@@ -1,3 +1,4 @@
+```c
 #include<iostream>
 using namespace std;
 int T=INT_MAX;
@@ -104,3 +105,4 @@ int main()
 	cout<<T;
 	return 0;
 }
+```
